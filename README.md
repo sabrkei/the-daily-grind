@@ -3,7 +3,7 @@ My first ever HTML and CSS build project showing practical skills I'd learnt in 
 
 Project requirments are outlined in REQUIREMENTS.MD
 
-Project folder with all HTML , CSS and Image and Video files have been uploaded as "TheDailyGrind.zip". Alternatively, a live link is still active @http://ithsundervisning.se/public_html/feu25g/Scott_Abraham_Keinstrom/.
+Project folder with all HTML , CSS and Image and Video files have been uploaded as "TheDailyGrind.zip". Alternatively, a live link is still active https://sabrkei.github.io/the-daily-grind/
 
 Content and sources used for my website:
 
