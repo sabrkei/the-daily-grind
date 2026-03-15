@@ -1,5 +1,6 @@
 # The-Daily-Grind HTML & CSS PRACTICAL SKILLS
-First lab project showing practical skills I'd learnt in HTML and CSS after approximately 4 weeks.
+My first ever HTML and CSS build project showing practical skills I'd learnt in HTML and CSS after approximately 4 weeks with no previous development experience.
+
 Project requirments are outlined in REQUIREMENTS.MD
 
 Project folder with all HTML , CSS and Image and Video files have been uploaded as "TheDailyGrind.zip". Alternatively, a live link is still active @http://ithsundervisning.se/public_html/feu25g/Scott_Abraham_Keinstrom/.
